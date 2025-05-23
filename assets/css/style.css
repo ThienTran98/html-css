@@ -45,17 +45,22 @@
   padding: 10px 20px;
   font-size: 20px;
   font-weight: 700;
+  width: 100%;
+ 
 }
 
 .nav__item a:hover {
   opacity: 0.8;
   transition: all 0.3s ease;
-  color: #ae0001;
+ 
+  
+
+
 }
 
-.nav__item .active {
-  color: #ae0001;
-}
+
+
+
 
 #banner {
   background-color: #ae0001;
@@ -72,6 +77,7 @@
   align-items: center;
   height: 100%;
 }
+
 
 .banner__content h2 {
   color: #fff;
